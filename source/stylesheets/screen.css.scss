@@ -83,6 +83,8 @@ html, body {
   &>img {
     display: block;
     max-width: 100%;
+    margin: 0 auto;
+    padding: 30px 0px 30px 0px;
   }
 
   &>.search {
@@ -540,7 +542,7 @@ html, body {
     &>p { margin: 0; }
 
     a {
-      color: #fff;
+      color: #0099e5;
       text-decoration: none;
       border-bottom: dashed 1px #ccc;
     }
